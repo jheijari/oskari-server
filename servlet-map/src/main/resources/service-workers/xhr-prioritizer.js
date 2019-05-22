@@ -1,4 +1,4 @@
-const DEBUG = false;
+const DEBUG = true;
 const MAX_CONCURRENT_REQUESTS = 6;
 const LIMIT_CONCURRENT_REQUESTS = 2;
 const PRIO_TRAFFIC_LIMIT = 3;
